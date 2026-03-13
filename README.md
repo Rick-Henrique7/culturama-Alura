@@ -14,7 +14,7 @@ A proposta do site é centralizar informações sobre eventos culturais, permiti
 <img width="1781" height="3217" alt="image" src="https://github.com/user-attachments/assets/6562ef19-f786-4c5b-afff-8efa5051f13f" />
 
 ## Celulares
-<img width="1781" height="3217" alt="image" src="https://github.com/user-attachments/assets/88a68443-9394-451a-b22e-46ae3a3a8396" />
+<img width="878" height="2028" alt="image" src="https://github.com/user-attachments/assets/4a57f2ce-cc53-4758-990d-65268979487c" />
 
 
 ### Cabeçalho
