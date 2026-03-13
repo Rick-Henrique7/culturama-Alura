@@ -1,6 +1,7 @@
 .banner {
     display: grid;
     gap: 1rem;
+    margin-top: 2rem;
 }
 
 .banner img:nth-child(1) {
